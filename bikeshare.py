@@ -48,7 +48,7 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-    
+    # thus file python for project three using Git and Githup skiles 
 # now we will load the data for the city the user selected 
     df = pd.read_csv(CITY_DATA[city])
     
