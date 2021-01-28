@@ -127,7 +127,7 @@ def station_stats(df):
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
     # i had i amaizing time in learning the git and githup and alse i plain to using the git and githup on my work every day so thank you Udacity
-
+    # alse here will change the fle foor the third branch 
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
 
