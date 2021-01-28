@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+the date of cratring the project its 28/1/2021
 
 ### Project Title
-Replace the Project Title
+GIT and GITHUP
 
 ### Description
-Describe what your project is about and what it does
+we are using thr git command to intractive with githup
 
 ### Files used
-Include the files used
+	bikeshare.py
+	hicago.csv
+	new_york_city.csv
+	washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/abdulelah119641/project-abdulelah-3/tree/master
 
